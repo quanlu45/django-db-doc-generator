@@ -1,0 +1,5 @@
+django
+pandas==1.3.5
+openpyxl==3.0.9
+tqdm==4.62.3
+python-docx==0.8.11
