@@ -4,7 +4,7 @@ a simple database docx generate tool
 ### How to use?
 1. copy db_doc_generate.py to your django scripts directory
 2. cd your project root directory
-3. python runscript manage.py db_doc_generate --script-args doc
+3. python manage.py runscript db_doc_generate --script-args doc
 
 ### Screenshot
 
